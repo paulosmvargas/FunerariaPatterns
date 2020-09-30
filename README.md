@@ -1,2 +1,2 @@
-# FunerariaPatterns
-Desenvolvimento de sistema(teórico) de controle de serviços prestados por uma funerária utilizando padrões de projetos implementados com linguagem de programação Java.
+# HelpDesk Patterns
+Desenvolvimento de sistema(teórico) de atendimento a chamados de usuário utilizando padrões de projetos implementados com linguagem de programação Java.
