@@ -1,3 +1,3 @@
 public interface Logica {
-	public String estado();
+	public String resposta();
 }
