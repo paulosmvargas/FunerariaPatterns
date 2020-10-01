@@ -2,7 +2,7 @@ public class Atendimento {
 	private Ticket ticket;
 	private Logica logica;
 
-    public Atendimento(Ticket ticket, Logica i){
+    public Atendimento(Ticket ticket, Logica logica){
         this.ticket = ticket;
         this.logica = logica;
     }
