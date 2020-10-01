@@ -26,7 +26,7 @@ public class Atendimento {
     }
     
     public void emAberto() {
-    	state.emAberto();
+    	state.aberto();
     }
     
     public void resolvido() {
@@ -37,7 +37,8 @@ public class Atendimento {
         System.out.println("Tipo ticket: " + ticket.getTipo());
         System.out.println("Nivel urgencia: " + ticket.getUrgencia());
         System.out.println("Descricao: " + ticket.getDesc());
-        System.out.println("Estado: " + state + "<---Hex");
         System.out.println("Resposta: " + logica.resposta());
+
+        System.out.println("Estado: " + state);
     }
 }

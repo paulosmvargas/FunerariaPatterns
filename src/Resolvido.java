@@ -1,7 +1,7 @@
 public class Resolvido implements State {
 	
 	@Override
-	public void emAberto() {
+	public void aberto() {
 		System.out.print("Não");
 	};
 	

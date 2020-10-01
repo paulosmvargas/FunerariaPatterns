@@ -1,7 +1,7 @@
 public class EmAberto implements State{
 	
 	@Override
-	public void emAberto() {
+	public void aberto() {
 		System.out.print("Sim");
 	};
 	

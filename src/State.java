@@ -1,4 +1,4 @@
 public interface State {
-	public void emAberto();
+	public void aberto();
 	public void resolvido();
 }
