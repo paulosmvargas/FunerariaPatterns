@@ -14,5 +14,5 @@
 - Utilizado no controle de estados dos chamados abertos, de uso semelhante ao Strategy, tomando parte do gerenciamento onde um chamado pode estar na fila de espera a ser resolvido, ou, em um nível prioritário e já ter sido resolvido de imediato.
 ---
 
-## Este é um projeto desenvolvido com fins acadêmicos.
+## Este é um projeto desenvolvido para fins acadêmicos.
 ---
